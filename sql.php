@@ -171,6 +171,7 @@
 
 #limit
 	select * from employee order by id asc limit 3
+	select * from employee order by id asc limit 2,3 //2 number theke 3 ta data show korbe
 
 #group by similar to distinct but lot of functionalities
 	select avg(salary), gender from employee group by gender;

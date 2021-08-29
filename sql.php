@@ -50,7 +50,7 @@
 #create database	
 	CREATE DATABASE sql_practise;
 
-#USE-->jokhon multiple database nie kaj kora hoy tokhon database select korar jonno USE keyword use kora hoy 		   mane kon database a operation korbo seta to age theke ee define kore nite hoy ai kaj tai USE keyword kore
+#USE-->jokhon multiple database nie kaj kora hoy tokhon database select korar jonno USE keyword use kora hoy mane kon database a operation korbo seta to age theke ee define kore nite hoy ai kaj tai USE keyword kore
 
 	   USE DatabaseName;
 

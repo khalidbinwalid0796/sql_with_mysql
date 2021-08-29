@@ -3,7 +3,7 @@
 #Database-->it is a systematic collection of data which support storage & manipulation of data in a easy way.
 			An online telephone directory uses a database to store data of people, phone numbers, and other contact details
 
-#Why database-->manage large amount of data is hasale but using database multiple people can also edit data at 					the same time
+#Why database-->manage large amount of data is hasale but using database multiple people can also edit data at the same time
 
 #DBMS-->it is a collection of programms which enables it's user to access database, manipulate data, reporting/
 	   representation of data
